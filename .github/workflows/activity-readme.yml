@@ -1,31 +1,32 @@
 name: Update Recent Activity
-
 on:
   schedule:
     - cron: "*/30 * * * *"
   workflow_dispatch:
-
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     name: Update README with Recent Activity
-
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
-
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Install dependencies
+        run: pip install requests
       - name: Generate Recent Activity
         run: |
           python3 << 'PYEOF'
           import requests, os, re
-
-          username = "HemanthTempalli"
+          username = "Kethambabu"
           token = os.environ.get("GITHUB_TOKEN", "")
           headers = {"Authorization": f"token {token}"} if token else {}
-
           url = f"https://api.github.com/users/{username}/events/public"
           resp = requests.get(url, headers=headers)
           events = resp.json()
-
           type_map = {
               "PushEvent":         "🔨 Pushed to",
               "CreateEvent":       "✅ Created",
@@ -37,7 +38,6 @@ jobs:
               "DeleteEvent":       "🗑️ Deleted from",
               "ReleaseEvent":      "🚀 Released in",
           }
-
           lines = []
           for event in events[:15]:
               etype = event.get("type", "")
@@ -45,30 +45,23 @@ jobs:
               label = type_map.get(etype)
               if label and repo and len(lines) < 5:
                   lines.append(f"- {label} [{repo}](https://github.com/{repo})")
-
           if not lines:
               lines = ["- No recent public activity found."]
-
           activity_block = "\n".join(lines)
-
           with open("README.md", "r") as f:
               content = f.read()
-
           new_content = re.sub(
               r"(<!--START_SECTION:activity-->)(.*?)(<!--END_SECTION:activity-->)",
               f"\\1\n{activity_block}\n\\3",
               content,
               flags=re.DOTALL
           )
-
           with open("README.md", "w") as f:
               f.write(new_content)
-
           print("Done.")
           PYEOF
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Commit changes
         run: |
           git config --local user.email "action@github.com"
