@@ -8,10 +8,69 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    name: Update README with Recent Activity
+
     steps:
       - uses: actions/checkout@v4
-      - uses: jamesgeorge007/github-activity-readme@master
+
+      - name: Generate Recent Activity
+        run: |
+          python3 << 'PYEOF'
+          import requests, os, re
+
+          username = "HemanthTempalli"
+          token = os.environ.get("GITHUB_TOKEN", "")
+          headers = {"Authorization": f"token {token}"} if token else {}
+
+          url = f"https://api.github.com/users/{username}/events/public"
+          resp = requests.get(url, headers=headers)
+          events = resp.json()
+
+          type_map = {
+              "PushEvent":         "🔨 Pushed to",
+              "CreateEvent":       "✅ Created",
+              "WatchEvent":        "⭐ Starred",
+              "ForkEvent":         "🍴 Forked",
+              "IssuesEvent":       "🐛 Opened issue in",
+              "PullRequestEvent":  "🔀 Pull request in",
+              "IssueCommentEvent": "💬 Commented in",
+              "DeleteEvent":       "🗑️ Deleted from",
+              "ReleaseEvent":      "🚀 Released in",
+          }
+
+          lines = []
+          for event in events[:15]:
+              etype = event.get("type", "")
+              repo  = event.get("repo", {}).get("name", "")
+              label = type_map.get(etype)
+              if label and repo and len(lines) < 5:
+                  lines.append(f"- {label} [{repo}](https://github.com/{repo})")
+
+          if not lines:
+              lines = ["- No recent public activity found."]
+
+          activity_block = "\n".join(lines)
+
+          with open("README.md", "r") as f:
+              content = f.read()
+
+          new_content = re.sub(
+              r"(<!--START_SECTION:activity-->)(.*?)(<!--END_SECTION:activity-->)",
+              f"\\1\n{activity_block}\n\\3",
+              content,
+              flags=re.DOTALL
+          )
+
+          with open("README.md", "w") as f:
+              f.write(new_content)
+
+          print("Done.")
+          PYEOF
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git diff --quiet || (git add README.md && git commit -m "⚡ Update README with recent activity" && git push)
