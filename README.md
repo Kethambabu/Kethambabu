@@ -1,35 +1,146 @@
-<h1 align="center">Hi 👋, I'm Ketham Babu Neelam</h1>
-<h3 align="center">Building AI-Powered Applications with LLMs, RAG, Multi-Agent Systems & Machine Learning</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kethambabu&label=Profile%20views&color=0e75b6&style=flat" alt="kethambabu" /> </p>
+<!-- Profile Views Counter (auto-updates) -->
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kethambabu" alt="kethambabu" /></a> </p>
+# 👋 Hi, I'm Ketham Babu Neelam
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+### B.Tech CS Student @ IIIT Nuzvid | Generative AI & Multi-Agent Systems Builder | RAG Pipeline Engineer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Generative+AI+%7C+Multi-Agent+Systems+%7C+RAG+Pipelines;Building+End-to-End+LLM-Powered+Applications;AutoGen+%7C+LangGraph+%7C+FastAPI+%7C+React;CGPA%3A+8.57+%40+IIIT+Nuzvid)](https://readme-typing-svg.demolab.com)
 
-- 🔭 I’m currently working on [Salon AI Workforce Management System](https://github.com/Kethambabu/saloon-AI.git)
+</div>
 
-- 🌱 I’m currently learning **Agentic AI • Model Context Protocol (MCP) • Advanced RAG • AI System Design • MLOps**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/Kethambabu](https://github.com/Kethambabu)
+## 💫 About Me
 
-- 💬 Ask me about **Python, Machine Learning, Generative AI, LLMs, RAG, LangGraph, AutoGen, FastAPI**
+- 🎓 B.Tech in Computer Science at **IIIT Nuzvid** (CGPA: 8.57), Aug 2023 – May 2027
+- 🤖 Building **multi-agent systems, RAG pipelines, and LLM-powered applications** end-to-end
+- 👯 Looking to collaborate on **Generative AI, Agentic AI, and Open Source projects**
+- 🌱 Currently exploring **LangGraph orchestration, hierarchical retrieval, and multi-agent BI systems**
+- 💬 Ask me about **Python, Machine Learning, Generative AI, RAG, Multi-Agent Systems**
+- ⚡ Fun fact: I enjoy turning agent workflows into real, production-style applications
 
-- 📫 How to reach me **kethambabu@gmail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dl9wi-fcFw24BjUr1CkRzFgRmFxffKNs/view?usp=drivesdk](https://drive.google.com/file/d/1dl9wi-fcFw24BjUr1CkRzFgRmFxffKNs/view?usp=drivesdk)
+## 🌐 Connect With Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/n ketham babu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="n ketham babu" height="30" width="40" /></a>
-<a href="https://kaggle.com/n ketham babu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="n ketham babu" height="30" width="40" /></a>
-</p>
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n-ketham-babu-3bb8032b4/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kethambabu@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kethambabu)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kethambabu&show_icons=true&locale=en&layout=compact" alt="kethambabu" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kethambabu&show_icons=true&locale=en" alt="kethambabu" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kethambabu&" alt="kethambabu" /></p>
+## 💻 Tech Stack
+
+### 🧠 AI / ML Frameworks
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-%23121011.svg?style=for-the-badge&logo=graphql&logoColor=white)
+![AutoGen](https://img.shields.io/badge/AutoGen-%230078D4.svg?style=for-the-badge&logo=microsoft&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-%23000000.svg?style=for-the-badge&logo=llama&logoColor=white)
+
+### 🐍 Languages & Data
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+### 🌐 Web & Cloud
+![FastAPI](https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### 🗄️ Databases & Tools
+![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🧑‍💼 [Multi-Agent Salon Workforce Management System (Saloon AI)](https://github.com/YOUR_GITHUB_USERNAME/saloon-ai)
+Autonomous multi-agent system built with **Microsoft AutoGen**, orchestrating specialized agents (receptionist, lead follow-up, upsell, BI, reputation) for salon workforce operations. Includes a high-precision enterprise RAG pipeline (hierarchical retrieval + semantic embeddings + Supabase) and a FastAPI backend with context-aware session management, integrated with a real-time React frontend.
+**Stack:** Python, AutoGen, FastAPI, Supabase (PostgreSQL), React, Vite, Tailwind CSS
+
+### 🖼️ [Multi-Modal AI Agent System with LLM Routing](https://github.com/YOUR_GITHUB_USERNAME/multimodal-agent-router)
+Multi-agent AI system handling text and image tasks (summarization, stance detection, image generation) with dynamic LLM routing via **LangGraph**. FastAPI backend for state management, Hugging Face API integration with retry logic, and an interactive Streamlit UI.
+**Stack:** Python, LangGraph, FastAPI, Streamlit, Hugging Face API
+
+### 🌲 [Tree-Based Retrieval System using LLM Reasoning (Vector-less RAG)](https://github.com/YOUR_GITHUB_USERNAME/tree-retrieval-rag)
+Hierarchical Tree Index built from documents using LLM-based semantic understanding instead of fixed chunking, with a multi-agent pipeline for parsing, structuring, and query-based tree traversal — improving explainability and multi-hop reasoning over vector similarity search.
+**Stack:** Python, LangGraph, Groq (Llama-3), PyMuPDF, BeautifulSoup
+
+---
+
+## 📜 Certifications
+
+- 🏅 Building RAG Systems with LlamaIndex – LlamaIndex
+- 🏅 Generative AI with AWS – Amazon Web Services
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Ketham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&bg_color=141321&color=A855F7&line=A855F7&point=ffffff&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=react&bg_color=141321&title_color=A855F7&icon_color=A855F7&hide_border=false" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=react&bg_color=141321&title_color=A855F7&hide_border=false" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+<div align="center">
+
+*Generative AI • Multi-Agent Systems • LLM Engineering • AI System Design • Problem Solving*
+
+</div>
