@@ -104,14 +104,10 @@ Hierarchical Tree Index built from documents using LLM-based semantic understand
 
 ---
 
-## 📊 GitHub Stats
+## ⚡ Recent GitHub Activity
 
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Kethambabu&show_icons=true&theme=react&bg_color=141321&title_color=A855F7&icon_color=A855F7&hide_border=false" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kethambabu&layout=compact&theme=react&bg_color=141321&title_color=A855F7&hide_border=false" />
-
-</div>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
