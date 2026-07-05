@@ -107,7 +107,7 @@ Hierarchical Tree Index built from documents using LLM-based semantic understand
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- 🔨 Pushed to [Kethambabu/Kethambabu](https://github.com/Kethambabu/Kethambabu)
+- ✅ Created [HemanthTempalli/news_crew](https://github.com/HemanthTempalli/news_crew)
 - 🔨 Pushed to [Kethambabu/Kethambabu](https://github.com/Kethambabu/Kethambabu)
 - 🔨 Pushed to [Kethambabu/Kethambabu](https://github.com/Kethambabu/Kethambabu)
 - 🔨 Pushed to [Kethambabu/Kethambabu](https://github.com/Kethambabu/Kethambabu)
