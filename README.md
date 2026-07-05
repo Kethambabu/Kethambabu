@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Profile Views Counter (auto-updates) -->
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Kethambabu&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 # 👋 Hi, I'm Ketham Babu Neelam
 
@@ -73,15 +73,15 @@
 
 ## 🚀 Featured Projects
 
-### 🧑‍💼 [Multi-Agent Salon Workforce Management System (Saloon AI)](https://github.com/YOUR_GITHUB_USERNAME/saloon-ai)
+### 🧑‍💼 [Multi-Agent Salon Workforce Management System (Saloon AI)](https://github.com/Kethambabu/saloon-ai)
 Autonomous multi-agent system built with **Microsoft AutoGen**, orchestrating specialized agents (receptionist, lead follow-up, upsell, BI, reputation) for salon workforce operations. Includes a high-precision enterprise RAG pipeline (hierarchical retrieval + semantic embeddings + Supabase) and a FastAPI backend with context-aware session management, integrated with a real-time React frontend.
 **Stack:** Python, AutoGen, FastAPI, Supabase (PostgreSQL), React, Vite, Tailwind CSS
 
-### 🖼️ [Multi-Modal AI Agent System with LLM Routing](https://github.com/YOUR_GITHUB_USERNAME/multimodal-agent-router)
+### 🖼️ [Multi-Modal AI Agent System with LLM Routing](https://github.com/Kethambabu/multimodal-agent-router)
 Multi-agent AI system handling text and image tasks (summarization, stance detection, image generation) with dynamic LLM routing via **LangGraph**. FastAPI backend for state management, Hugging Face API integration with retry logic, and an interactive Streamlit UI.
 **Stack:** Python, LangGraph, FastAPI, Streamlit, Hugging Face API
 
-### 🌲 [Tree-Based Retrieval System using LLM Reasoning (Vector-less RAG)](https://github.com/YOUR_GITHUB_USERNAME/tree-retrieval-rag)
+### 🌲 [Tree-Based Retrieval System using LLM Reasoning (Vector-less RAG)](https://github.com/Kethambabu/tree-retrieval-rag)
 Hierarchical Tree Index built from documents using LLM-based semantic understanding instead of fixed chunking, with a multi-agent pipeline for parsing, structuring, and query-based tree traversal — improving explainability and multi-hop reasoning over vector similarity search.
 **Stack:** Python, LangGraph, Groq (Llama-3), PyMuPDF, BeautifulSoup
 
@@ -98,7 +98,7 @@ Hierarchical Tree Index built from documents using LLM-based semantic understand
 
 <div align="center">
 
-[![Ketham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&bg_color=141321&color=A855F7&line=A855F7&point=ffffff&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ketham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kethambabu&theme=react-dark&bg_color=141321&color=A855F7&line=A855F7&point=ffffff&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -120,9 +120,9 @@ Hierarchical Tree Index built from documents using LLM-based semantic understand
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kethambabu/Kethambabu/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kethambabu/Kethambabu/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kethambabu/Kethambabu/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
