@@ -108,8 +108,8 @@ Hierarchical Tree Index built from documents using LLM-based semantic understand
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=react&bg_color=141321&title_color=A855F7&icon_color=A855F7&hide_border=false" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=react&bg_color=141321&title_color=A855F7&hide_border=false" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Kethambabu&show_icons=true&theme=react&bg_color=141321&title_color=A855F7&icon_color=A855F7&hide_border=false" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kethambabu&layout=compact&theme=react&bg_color=141321&title_color=A855F7&hide_border=false" />
 
 </div>
 
