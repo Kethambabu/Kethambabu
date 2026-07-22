@@ -107,11 +107,11 @@ Hierarchical Tree Index built from documents using LLM-based semantic understand
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+- 🔨 Pushed to [Kethambabu/sentileGrid](https://github.com/Kethambabu/sentileGrid)
 - ✅ Created [Kethambabu/sentileGrid](https://github.com/Kethambabu/sentileGrid)
 - 🔨 Pushed to [Kethambabu/saloon-2](https://github.com/Kethambabu/saloon-2)
 - ✅ Created [Kethambabu/saloon-2](https://github.com/Kethambabu/saloon-2)
 - ⭐ Starred [openlake-project/openlake](https://github.com/openlake-project/openlake)
-- ✅ Created [HemanthTempalli/news_crew](https://github.com/HemanthTempalli/news_crew)
 <!--END_SECTION:activity-->
 
 ---
