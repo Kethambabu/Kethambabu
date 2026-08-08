@@ -107,7 +107,7 @@ Hierarchical Tree Index built from documents using LLM-based semantic understand
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- 🔨 Pushed to [Kethambabu/saloon-AI](https://github.com/Kethambabu/saloon-AI)
+- ✅ Created [Kethambabu/longtail-distribution](https://github.com/Kethambabu/longtail-distribution)
 - 🔨 Pushed to [Kethambabu/saloon-AI](https://github.com/Kethambabu/saloon-AI)
 - 🔨 Pushed to [Kethambabu/saloon-AI](https://github.com/Kethambabu/saloon-AI)
 - 🔨 Pushed to [Kethambabu/saloon-AI](https://github.com/Kethambabu/saloon-AI)
