@@ -107,11 +107,7 @@ Hierarchical Tree Index built from documents using LLM-based semantic understand
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- 🔨 Pushed to [Kethambabu/longtail-distribution](https://github.com/Kethambabu/longtail-distribution)
-- 🔨 Pushed to [Kethambabu/longtail-distribution](https://github.com/Kethambabu/longtail-distribution)
-- 🔨 Pushed to [Kethambabu/longtail-distribution](https://github.com/Kethambabu/longtail-distribution)
-- 🔨 Pushed to [Kethambabu/longtail-distribution](https://github.com/Kethambabu/longtail-distribution)
-- 🔨 Pushed to [Kethambabu/longtail-distribution](https://github.com/Kethambabu/longtail-distribution)
+- No recent public activity found.
 <!--END_SECTION:activity-->
 
 ---
