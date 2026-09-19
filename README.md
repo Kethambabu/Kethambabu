@@ -107,7 +107,11 @@ Hierarchical Tree Index built from documents using LLM-based semantic understand
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- No recent public activity found.
+- 🔨 Pushed to [Kethambabu/study-Companion](https://github.com/Kethambabu/study-Companion)
+- 🔨 Pushed to [Kethambabu/study-Companion](https://github.com/Kethambabu/study-Companion)
+- 🔨 Pushed to [Kethambabu/study-Companion](https://github.com/Kethambabu/study-Companion)
+- 🔨 Pushed to [Kethambabu/study-Companion](https://github.com/Kethambabu/study-Companion)
+- 🔨 Pushed to [Kethambabu/study-Companion](https://github.com/Kethambabu/study-Companion)
 <!--END_SECTION:activity-->
 
 ---
