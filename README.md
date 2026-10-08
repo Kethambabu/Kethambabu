@@ -109,7 +109,7 @@ Hierarchical Tree Index built from documents using LLM-based semantic understand
 <!--START_SECTION:activity-->
 - 🔨 Pushed to [Kethambabu/portfolio](https://github.com/Kethambabu/portfolio)
 - 🔨 Pushed to [Kethambabu/portfolio](https://github.com/Kethambabu/portfolio)
-- 🔨 Pushed to [Kethambabu/study-Companion](https://github.com/Kethambabu/study-Companion)
+- 🔨 Pushed to [Kethambabu/portfolio](https://github.com/Kethambabu/portfolio)
 - 🔨 Pushed to [Kethambabu/study-Companion](https://github.com/Kethambabu/study-Companion)
 - 🔨 Pushed to [Kethambabu/study-Companion](https://github.com/Kethambabu/study-Companion)
 <!--END_SECTION:activity-->
